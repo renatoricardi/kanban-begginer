@@ -1,2 +1,3 @@
-# kanban-begginer
-Created with CodeSandbox
+# kanban-beginner
+Link acesso: https://fvwrc.csb.app/
+
